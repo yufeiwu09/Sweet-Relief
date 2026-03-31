@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: #FEFEFE;
+  color: #162F6F;
+}
+
+nav {
+  background-color: #189CE4;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+button {
+  background-color: #EF4C48;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
